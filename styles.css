@@ -1,0 +1,10 @@
+* {
+    margin : 0 ;
+    padding : 0 ;
+}
+
+* Fundo {
+    background-image: linear-gradient (45 deg, white , lightblue);
+    height: 100 Vh;
+    color: blue;
+}
