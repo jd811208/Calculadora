@@ -37,5 +37,15 @@
 
 .botao:hover{
         background-color: black;
-        color:white
+        color:white;
+}
+
+#Resultado{
+        background-color: white;
+        width: 207px;
+        height: 30px;
+        margin: 5px;
+        color: black;
+        text-align: right;
+        padding: 5px;
 }
